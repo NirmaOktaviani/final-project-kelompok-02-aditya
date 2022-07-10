@@ -1,4 +1,4 @@
-# Final Project Kelompok __
+# Final Project Kelompok 2
 Anggota Kelompok:
 - Nirma Oktaviani
 - Nur Alifiah
